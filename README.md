@@ -6,3 +6,4 @@ TJNU Cloud Segmentation Database (TCSD) is collected from 2019 to 2020 in nine p
 
 Download
 Please download, fill and sign the TSCD Agreement and return the whole document to zhong.zhang8848@gmail.com or zhangz@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
+# git rm -r --cached TCSD Agreement
