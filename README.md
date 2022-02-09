@@ -7,12 +7,19 @@ TJNU Cloud Detection Database (TCDD) is collected from 2019 to 2020 in nine prov
 # If you use this dataset in your research, please kindly cite our work as,
 
 @article{zhang2022ground,
-title = {Ground-based Cloud Detection using Multiscale Attention Convolutional Neural Network}, 
+
+  title = {Ground-based Cloud Detection using Multiscale Attention Convolutional Neural Network}, 
+  
   author = {Zhang, Zhong and Yang, Shuzhen and Liu, Shuang and Xiao, Baihua and Cao, Xiaozhong.},
+  
   journal = {IEEE Geoscience and Remote Sensing Letters}, 
+  
   volume = {19},
+  
   pages = {1--5},
+  
   year = {2022},
+  
   publisher = {IEEE}
 }
 
